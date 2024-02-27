@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Shivam Tyagi, a Java developer with 2.5 years 
 
 ## About Me
 
-- 💼 Currently, I am working as a backend developer at a reputed startup autobg.ai.
+- 💼 Currently, I am working as a backend developer at a reputed startup [Autobg.ai](https://autobg.ai).
 - 🚀 I have experience in developing products from scratch as well as maintaining and enhancing legacy projects.
 - 🌱 I am passionate about continuous learning and staying updated with the latest technologies and best practices in software development.
 - 👯 I enjoy collaborating with teams and contributing to the complete software development lifecycle using agile methodologies.
